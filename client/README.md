@@ -84,3 +84,8 @@ height: calc(100% - 160px);
   }
   }
   }
+
+  # useRef
+
+  - generally useRef hook is used to store a mutable value that does not cause a re-render when updated - It can be used to access a DOM element directly.
+  - used the useRef hook to reference newly created message and in combination with useEffect I was able to croll to it after the render
