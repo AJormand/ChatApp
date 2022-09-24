@@ -1,3 +1,8 @@
+# For testing use:
+
+- user: user1@gmail.com
+- pass: 123456
+
 # Lessons learned
 
 # Component splitting and rerendering:
